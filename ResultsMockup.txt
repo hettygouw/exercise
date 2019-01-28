@@ -1,0 +1,23 @@
+Scenario: Verify the values on the page
+
+name: User opens Values page
+status: passed
+
+name: User verifies the number of values appear on the screen
+status: passed
+
+name: User verifies the values on the screen are greater than 0
+status: passed
+
+name: User verifies the total balance is correct based on the values listed on the screen
+status: passed
+
+name: User verifies the values are formatted as currencies
+status: passed
+
+name: User verifies the total balance matches the sum of the values
+status: passed
+
+------------------
+Please refer to target folder for index.html and test-output.json for the actual test output.
+Note: "https://www.exercise1.com/values" page is not reachable at this time, so the it failed on the first step

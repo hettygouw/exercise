@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/maven-plugin-api-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/cucumber_jars4/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Cucumber/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
